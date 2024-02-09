@@ -5,7 +5,7 @@
 
 <script setup>
  
-import { DefineProps } from 'vue';
+import { defineProps } from 'vue';
 
 const props = defineProps({
     total: {
